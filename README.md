@@ -7,4 +7,4 @@ Just a practice, if  you are interested in writing html5 games,check the code an
 
 # Demo
 
-[Tetris Game](http://shalini-sundar.github.io/Tetris/)
+[Tetris Game](http://shalini-sundar.github.io/Tetris-test/)
