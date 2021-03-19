@@ -7,9 +7,4 @@ Just a practice, if  you are interested in writing html5 games,check the code an
 
 # Demo
 
-[Tetris Game](http://sandywalker.github.io/Tetris/)
-
-
-#License
-
-MIT © Sandy Duan
+[Tetris Game](http://shalini-sundar.github.io/Tetris/)
